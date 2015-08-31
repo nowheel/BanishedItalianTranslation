@@ -1,0 +1,1 @@
+bin\x64\Application-x64-profile.exe /pathres ../mods/CCTranslationPoC /pathdat ../mods/CCTranslationPoC/bin

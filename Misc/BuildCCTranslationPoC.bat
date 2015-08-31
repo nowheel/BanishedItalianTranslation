@@ -1,0 +1,2 @@
+bin\x64\Tools-x64.exe /build Package.rsc:list /pathres ../mods/CCTranslationPoC /pathdat ../mods/CCTranslationPoC/bin
+bin\x64\Tools-x64.exe /mod Package.rsc:CCTranslationPoC /pathres ../mods/CCTranslationPoC /pathdat ../mods/CCTranslationPoC/bin
