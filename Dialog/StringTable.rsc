@@ -1,4 +1,4 @@
-StringTable terrainSize
+ StringTable terrainSize
 {
 	Entry _strings
 	[ 
@@ -16,7 +16,7 @@ StringTable terrainSize
 		}
 		{
 			String _name = "TerrainSize3";
-			String _text = "[CC] Molto Large";
+			String _text = "[CC] Molto Largo";
 		}
 	]
 }
